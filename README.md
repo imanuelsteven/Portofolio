@@ -13,6 +13,7 @@ Welcome to my personal portfolio — a showcase of the projects I've built acros
 |**Aids Prediction**|Predicting AIDS risk in HIV-positive patients using machine learning models (Logistic Regression, Random Forest, XGBoost). Includes data preprocessing, SMOTE balancing, and model tuning to support early intervention in healthcare.|Python, Pandas, Sklearn|[Link](https://github.com/imanuelsteven/Aids-Prediction-Using-Machine-Learning)|
 |**Mamikos Reccomendation System**|Built and compared Content-Based and Cluster-Based recommendation models to suggest personalized boarding houses (kos) in Salatiga, Indonesia.|Python, Pandas, Sklearn|[Link](https://github.com/imanuelsteven/Mamikos-Recommendation-System)|
 |**Triv Sentiment Analysis**|Scraped Google Play reviews of Triv, analyzed sentiments, and built ML models to predict user opinions and satisfaction trends|Python, Pandas, Sklearn|[Link](https://github.com/imanuelsteven/Triv-Sentiment-Analysis)|
+|California Housing Median Price | Built and optimized a machine learning model using Random Forest and Bayesian Optimization to predict California housing prices based on 1990 census data. Achieved an R² of 0.79 and RMSE of ~$51K, with key insights driven by median income and geographic features.|Python, Pandas, Sklearn|[Link](https://github.com/imanuelsteven/California-Median-Housing-Price-Prediction)|
 
 
 
